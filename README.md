@@ -25,6 +25,9 @@ que este recurso ver a ser uma grande ferramente para utilização em diversos p
 ### Diagrama de Serviço (Sem Interface)
 ![alt text](https://github.com/SergioMonteiroRibeiro/Udemy-Java-Interfaces-Aluguel-De-Carros/blob/master/Diagrams/Service%20Layer%20Design%20No%20Interface.PNG)
 
+### Diagrama de Serviço (Com Interface)
+![alt text](https://github.com/SergioMonteiroRibeiro/Udemy-Java-Interfaces-Aluguel-De-Carros/blob/master/Diagrams/Domain%20layer%20design.PNG)
+
 #### O README será atualizado de acordo com o versionamento do projeto
 
 Link para o curso: https://www.udemy.com/course/java-curso-completo/
